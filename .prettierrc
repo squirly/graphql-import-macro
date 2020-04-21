@@ -1,0 +1,19 @@
+{
+  "trailingComma": "all",
+  "bracketSpacing": false,
+  "overrides": [
+    {
+      "files": "*.md",
+      "options": {
+        "proseWrap": "always",
+        "tabWidth": 4
+      }
+    },
+    {
+      "files": "*.graphql",
+      "options": {
+        "tabWidth": 4
+      }
+    }
+  ]
+}
